@@ -7,11 +7,11 @@
 
 - 📫 How to reach me [uchihaabdellahi@gmail.com](uchihaabdellahi@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/TLDart](https://github.com/TLDart)
+- 👨‍💻 All of my projects are available at [https://github.com/abdellahi-brahim/abdellahi-brahim/](https://github.com/abdellahi-brahim/abdellahi-brahim/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abdellahi-brahim-7445a0176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-duarte-dias-" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdellahi-brahim-7445a0176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdellahi-brahim" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tldart&show_icons=true&locale=en&layout=compact" alt="tldart" /></p>
